@@ -1,2 +1,5 @@
 # AVD-Checkpoint-1
 Shafa Rizqi Nur Wahidah | 2409116041 | Sistem Informasi B 2024
+
+# Studi Kasus
+Industri drama Korea terus berkembang dengan persaingan yang semakin ketat, baik di televisi maupun platform streaming seperti Netflix dan Viu. Dengan banyaknya drama yang dirilis setiap tahun, tidak semua mendapatkan respons positif dari penonton. Beberapa drama meraih rating tinggi dan menjadi fenomena global, sementara yang lain kurang diminati. Oleh karena itu, penting untuk memahami faktor-faktor yang berkontribusi terhadap kesuksesan sebuah drama. Dengan menganalisis dataset yang berisi 250 drama Korea, kita dapat mengidentifikasi apakah ada hubungan antara rating dengan faktor-faktor seperti genre, jumlah episode, durasi, jaringan penyiaran, serta kombinasi sutradara dan penulis naskah. Dengan memahami pola ini, industri hiburan dapat lebih strategis dalam menentukan konsep cerita, memilih aktor, dan merancang strategi pemasaran yang lebih efektif. Melalui analisis ini, diharapkan dapat ditemukan wawasan yang berguna bagi perusahaan produksi dan platform streaming dalam menyusun konten yang lebih menarik bagi audiens.
